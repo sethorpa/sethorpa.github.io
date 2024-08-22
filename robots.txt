@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sethorpa.github.io/sitemap.html.gz
+Sitemap: https://sethorpa.github.io/app/sitemap.html.gz
+Sitemap: https://sethorpa.github.io/assets/sitemap.html.gz
+Sitemap: https://sethorpa.github.io/css/sitemap.html.gz
+Sitemap: https://sethorpa.github.io/includes/sitemap.html.gz
+Sitemap: https://sethorpa.github.io/item/sitemap.html.gz
+Sitemap: https://sethorpa.github.io/src/sitemap.html.gz
